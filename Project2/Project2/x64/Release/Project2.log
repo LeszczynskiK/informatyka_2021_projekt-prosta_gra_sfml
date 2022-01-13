@@ -1,0 +1,59 @@
+﻿  Źródło.cpp
+C:\Users\Krzychu\Desktop\GRA infa\Project2\Project2\Źródło.cpp(19,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Krzychu\Desktop\GRA infa\Project2\Project2\Źródło.cpp(95,48): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Krzychu\Desktop\GRA infa\Project2\Project2\Źródło.cpp(95,28): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Krzychu\Desktop\GRA infa\Project2\Project2\Źródło.cpp(230,24): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Krzychu\Desktop\GRA infa\Project2\Project2\Źródło.cpp(230,20): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Krzychu\Desktop\GRA infa\Project2\Project2\Źródło.cpp(240,25): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Krzychu\Desktop\GRA infa\Project2\Project2\Źródło.cpp(240,20): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Krzychu\Desktop\GRA infa\Project2\Project2\Źródło.cpp(251,25): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Krzychu\Desktop\GRA infa\Project2\Project2\Źródło.cpp(251,20): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Krzychu\Desktop\GRA infa\Project2\Project2\Źródło.cpp(264,29): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Krzychu\Desktop\GRA infa\Project2\Project2\Źródło.cpp(264,20): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Krzychu\Desktop\GRA infa\Project2\Project2\Źródło.cpp(286,29): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Krzychu\Desktop\GRA infa\Project2\Project2\Źródło.cpp(286,20): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Krzychu\Desktop\GRA infa\Project2\Project2\Źródło.cpp(312,29): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Krzychu\Desktop\GRA infa\Project2\Project2\Źródło.cpp(312,20): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Krzychu\Desktop\GRA infa\Project2\Project2\Źródło.cpp(371,15): warning C4553: „==”: Wynik wyrażenia nie jest używany; czy chodziło Ci o „=”?
+C:\Users\Krzychu\Desktop\GRA infa\Project2\Project2\Źródło.cpp(386,85): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Krzychu\Desktop\GRA infa\Project2\Project2\Źródło.cpp(386,56): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Krzychu\Desktop\GRA infa\Project2\Project2\Źródło.cpp(417,28): warning C4553: „==”: Wynik wyrażenia nie jest używany; czy chodziło Ci o „=”?
+C:\Users\Krzychu\Desktop\GRA infa\Project2\Project2\Źródło.cpp(425,28): warning C4553: „==”: Wynik wyrażenia nie jest używany; czy chodziło Ci o „=”?
+C:\Users\Krzychu\Desktop\GRA infa\Project2\Project2\Źródło.cpp(433,28): warning C4553: „==”: Wynik wyrażenia nie jest używany; czy chodziło Ci o „=”?
+C:\Users\Krzychu\Desktop\GRA infa\Project2\Project2\Źródło.cpp(474,24): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Krzychu\Desktop\GRA infa\Project2\Project2\Źródło.cpp(478,23): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Krzychu\Desktop\GRA infa\Project2\Project2\Źródło.cpp(482,27): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Krzychu\Desktop\GRA infa\Project2\Project2\Źródło.cpp(486,27): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Krzychu\Desktop\GRA infa\Project2\Project2\Źródło.cpp(527,18): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Krzychu\Desktop\GRA infa\Project2\Project2\Źródło.cpp(528,18): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Krzychu\Desktop\GRA infa\Project2\Project2\Źródło.cpp(535,28): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Krzychu\Desktop\GRA infa\Project2\Project2\Źródło.cpp(535,18): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Krzychu\Desktop\GRA infa\Project2\Project2\Źródło.cpp(556,28): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Krzychu\Desktop\GRA infa\Project2\Project2\Źródło.cpp(556,18): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Krzychu\Desktop\GRA infa\Project2\Project2\Źródło.cpp(581,28): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Krzychu\Desktop\GRA infa\Project2\Project2\Źródło.cpp(581,18): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Krzychu\Desktop\GRA infa\Project2\Project2\Źródło.cpp(606,28): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Krzychu\Desktop\GRA infa\Project2\Project2\Źródło.cpp(606,18): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Krzychu\Desktop\GRA infa\Project2\Project2\Źródło.cpp(94,3): warning C4102: "x2": etykieta, do której nie istnieje odwołanie
+  Trwa generowanie kodu
+  1 of 205 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    14 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Project2.vcxproj -> C:\Users\Krzychu\Desktop\GRA infa\Project2\x64\Release\Project2.exe
